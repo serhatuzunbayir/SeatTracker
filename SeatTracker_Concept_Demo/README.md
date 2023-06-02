@@ -5,6 +5,7 @@ It was made in 48 hours as a concept demo for the Seatracker SE216 project.
 ## Table of Contents
   * [Table of Contents](#table-of-contents)
   * [General Info](#general-info)
+  * [Presentation Video](#presentation-video)
   * [Screenshots](#screenshots)
   * [Technologies](#technologies)
   * [Status](#status)
@@ -16,6 +17,10 @@ It was made in 48 hours as a concept demo for the Seatracker SE216 project.
 ---
 ## General Info
 You can observe the real flow from the isometric restaurant image on the right and follow the changes according to this flow on the left screen.
+
+---
+## Presentation Video
+You can access the SeatTracker Concept Demo presentation video by clicking [here](https://www.youtube.com/watch?v=WNMG3P_CnGU).
 
 ---
 ## Screenshots
